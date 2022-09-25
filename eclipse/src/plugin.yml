@@ -1,0 +1,10 @@
+name: MediumCraft
+version: 1.0.0
+author: [LeeHansHinLun, MediumBerry5575]
+main: net.LeeHansHinLun.MediumCraft.MainPlugin.MediumCraft
+api-version: 1.14
+commands: 
+    mediumcraft:
+        description: Tells a player where he/she is connected to in MediumCraft
+        usage: /mediumcraft
+        aliases: [connectedserverid, serverid]
